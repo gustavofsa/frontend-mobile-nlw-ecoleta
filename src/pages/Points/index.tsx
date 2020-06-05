@@ -59,32 +59,32 @@ const Points = () => {
           showsHorizontalScrollIndicator={false}
           contentContainerStyle={{ paddingHorizontal: 20 }}
         >
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
 
-          <TouchableOpacity style={styles.item} onPress={() => {}}>
+          <TouchableOpacity style={styles.item} onPress={handleNavigateDetail}>
             <SvgUri width={42} height={42} uri="http://192.168.25.28:3333/uploads/baterias.svg" />
             <Text style={styles.itemTitle}>Lâmpadas</Text>
           </TouchableOpacity>
