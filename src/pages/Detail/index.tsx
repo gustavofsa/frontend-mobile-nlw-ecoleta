@@ -28,7 +28,7 @@ interface Data {
 
 const Detail = () => {
   const [data, setData] = useState<Data>({} as Data);
-  console.log(data.items);
+  
   const navigation = useNavigation();
   const route = useRoute();
 
